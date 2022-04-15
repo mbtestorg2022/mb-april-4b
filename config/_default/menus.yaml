@@ -1,0 +1,9 @@
+leftnav:
+- identifier: 26244350-fcf9-444c-9318-318e12cc25a0
+  name: page one link
+  url: /pages/page-1
+  weight: 10
+- identifier: 31a5a5e1-33d3-4232-bb94-5cb3c6c1725a
+  name: page two link, delete me
+  url: /pages/page-2-delete-me
+  weight: 20
