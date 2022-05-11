@@ -17,3 +17,9 @@ A link to an image I'm going to delete:
 A link to an image:
 
 {{% resource_link "9c91722a-372c-4159-ab5e-120387d37c4e" "Screen Shot 2022-04-04 at 1.37.12 PM.png" %}}
+
+ 
+
+An embedded image:
+
+{{< resource uuid="34cedbda-0d04-4648-b9e9-1d4f67648775" >}}
