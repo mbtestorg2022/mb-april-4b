@@ -1,7 +1,9 @@
 {
   "term": "January IAP",
   "year": "2025",
-  "level": [],
+  "level": [
+    "Undergraduate"
+  ],
   "topics": [],
   "s3_path": "courses/mb-april-4b",
   "url_path": "courses/mit-003-time-travel-101a-january-iap-2025",
