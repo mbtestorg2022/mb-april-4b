@@ -15,6 +15,10 @@
     "website": "mb-april-4b"
   },
   "course_title": "Time Travel 101a",
+  "publish_metadata": {
+    "s3_path": "courses/mb-april-4b",
+    "url_path": "courses/mb-april-4b-test-url"
+  },
   "course_description": "sdfsdf123 asd",
   "department_numbers": [
     "2"
