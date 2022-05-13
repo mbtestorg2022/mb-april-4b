@@ -7,8 +7,10 @@
   "url_path": "courses/mit-003-time-travel-101a-january-iap-2025",
   "legacy_uid": "",
   "instructors": {
-    "content": [],
-    "website": "mb-april-4b"
+    "content": [
+      "5c890c9d-4ccb-c176-570d-921bde355cc7"
+    ],
+    "website": "ocw-www"
   },
   "course_image": {
     "content": "",
@@ -30,5 +32,7 @@
     "website": "mb-april-4b"
   },
   "learning_resource_types": [],
+  "publish_metadata.s3_path": "courses/mb-april-4b",
+  "publish_metadata.url_path": "mit003-time-travel-101a-january-iap-2025",
   "site_uid": "d4659117-6e62-4fee-8d6e-3e2bd1486a10"
 }
