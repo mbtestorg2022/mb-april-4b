@@ -1,24 +1,34 @@
 {
-  "term": "",
-  "year": "",
-  "level": [],
+  "term": "January IAP",
+  "year": "2025",
+  "level": [
+    "Undergraduate"
+  ],
   "topics": [],
+  "s3_path": "courses/mb-april-4b",
+  "url_path": "courses/mit-003-time-travel-101a-january-iap-2025",
   "legacy_uid": "",
   "instructors": {
-    "content": [],
-    "website": "mb-april-4b"
+    "content": [
+      "5c890c9d-4ccb-c176-570d-921bde355cc7"
+    ],
+    "website": "ocw-www"
   },
   "course_image": {
     "content": "",
     "website": "mb-april-4b"
   },
-  "course_title": "Time Travel 101",
-  "course_description": "sdfsdf",
+  "course_title": "Time Travel 101a",
+  "publish_metadata": {
+    "s3_path": "courses/mb-april-4b",
+    "url_path": "courses/mb-april-4b-test-url"
+  },
+  "course_description": "sdfsdf123 asd",
   "department_numbers": [
     "2"
   ],
   "extra_course_numbers": "",
-  "primary_course_number": "123456abc",
+  "primary_course_number": "MIT.003",
   "course_image_thumbnail": {
     "content": "",
     "website": "mb-april-4b"
