@@ -1,19 +1,18 @@
 ---
 body: ''
 content_type: resource
-description: ''
 draft: false
-file: /courses/mit-003-time-travel-101a-january-iap-2025/screen-shot-2022-04-09-at-20105-pm.png
-file_type: image/png
+file: /gdrive_uploads/mb-april-4b/1oHDOAs4AWxTuplds9FV7bIMo30hBwFor/basic.mp4
+file_type: video/mp4
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types: []
-license: https://creativecommons.org/publicdomain/zero/1.0/
-resourcetype: Image
-title: Screen Shot 2022-04-09 at 2.01.05 PM.png
-uid: d4f4d60f-9b3f-43ca-a754-2e9787e932b2
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+resourcetype: Video
+title: basic.mp4
+uid: 9c0a7f5c-4ed0-4422-9d14-0507a0d260c3
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''
@@ -24,4 +23,3 @@ video_metadata:
   youtube_description: ''
   youtube_id: ''
 ---
-public domain license
